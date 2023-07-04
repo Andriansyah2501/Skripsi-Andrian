@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2023-07-03T17:39:07.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eGSHJwW1nqSdAuvxZopR" version="21.5.0" type="device">
+  <diagram name="Page-1" id="CrxmWs7Nu3ACpKXDPnbG">
+    <mxGraphModel dx="1337" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-1" target="gHjhHi4Ze6Swoq5TwWRh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-1" value="&lt;b&gt;Sebagian Besar Mahasiswa ITEBA Memiliki Laptop&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-2" target="gHjhHi4Ze6Swoq5TwWRh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-2" value="&lt;b&gt;Mengetahui &lt;i&gt;Cluster &lt;/i&gt;sangat baik&lt;i&gt;, &lt;/i&gt;baik dan cukup dari sisi kebutuhan penggunaan terhadap perkuliahan&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="150" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-4" target="gHjhHi4Ze6Swoq5TwWRh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-4" value="&lt;b&gt;Melakukan Kueisioner&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="260" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-6" target="gHjhHi4Ze6Swoq5TwWRh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-6" target="gHjhHi4Ze6Swoq5TwWRh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-6" target="gHjhHi4Ze6Swoq5TwWRh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-6" value="&lt;b&gt;VARIABEL KEGUNAAN ATAU MANFAAT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="370" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-8" target="gHjhHi4Ze6Swoq5TwWRh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-8" value="VARIABEL KEPUASAN" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-10" target="gHjhHi4Ze6Swoq5TwWRh-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-10" value="VARIABEL MENGENAI BRAND LAPTOP" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.135;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-12" target="gHjhHi4Ze6Swoq5TwWRh-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-12" value="&lt;b&gt;VARIABEL KEGUNAAN ATAU MANFAAT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="520" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-16" target="gHjhHi4Ze6Swoq5TwWRh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-16" value="&lt;b&gt;UJI VALIDITAS DAN RELIABILITAS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="630" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-18" target="gHjhHi4Ze6Swoq5TwWRh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-18" value="&lt;b&gt;PENGOLAHAN DATA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="740" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.135;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="gHjhHi4Ze6Swoq5TwWRh-20" target="gHjhHi4Ze6Swoq5TwWRh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-20" value="&lt;b&gt;PENGUJIAN DATA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="850" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gHjhHi4Ze6Swoq5TwWRh-22" value="&lt;b&gt;MENGETAHUI PEMINAT MERK LAPTOP SESUAI DENGAN KEBUTUHAN PERKULIAHAN MAHASISWA&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="305" y="960" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
