@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2023-08-31T01:16:46.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="LBica91ZqwRM4ZI5KV_y" version="21.6.5" type="device">
+  <diagram name="Page-1" id="MUx1S7gD4AFGHTF3XN1_">
+    <mxGraphModel dx="1674" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulMtHQ4DYxYwLVnCQJ80-1" target="ulMtHQ4DYxYwLVnCQJ80-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-1" value="ANALISA KEBUTUHAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulMtHQ4DYxYwLVnCQJ80-2" target="ulMtHQ4DYxYwLVnCQJ80-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-2" value="DESIGN SISTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulMtHQ4DYxYwLVnCQJ80-4" target="ulMtHQ4DYxYwLVnCQJ80-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-4" value="IMPLEMENTASI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulMtHQ4DYxYwLVnCQJ80-6" target="ulMtHQ4DYxYwLVnCQJ80-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-6" value="INTERGASI DAN PENGUJIAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulMtHQ4DYxYwLVnCQJ80-8" value="PEMELIHARAAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

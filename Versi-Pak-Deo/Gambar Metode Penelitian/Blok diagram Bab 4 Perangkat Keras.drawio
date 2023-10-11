@@ -1,0 +1,72 @@
+<mxfile host="Electron" modified="2023-09-08T01:44:18.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="6HM7n11gObSGzPN8v4Lu" version="21.6.5" type="device" pages="2">
+  <diagram name="Page-1" id="RQvgifNLWbGMtxoRPfXP">
+    <mxGraphModel dx="1656" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FHuIx4dGO6P8439NWxhf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FHuIx4dGO6P8439NWxhf-1" target="FHuIx4dGO6P8439NWxhf-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FHuIx4dGO6P8439NWxhf-1" target="FHuIx4dGO6P8439NWxhf-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-1" value="POWERSUPLY" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="FHuIx4dGO6P8439NWxhf-3" target="FHuIx4dGO6P8439NWxhf-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FHuIx4dGO6P8439NWxhf-3" target="FHuIx4dGO6P8439NWxhf-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-3" value="INPUT POWER 5V" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="FHuIx4dGO6P8439NWxhf-5" target="FHuIx4dGO6P8439NWxhf-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-5" value="INPUT POWER 12V" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-7" value="CONVERTER" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FHuIx4dGO6P8439NWxhf-9" target="FHuIx4dGO6P8439NWxhf-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-9" value="MOTOR DRIVER" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-12" value="4 MOTOR DC&lt;br&gt;GEARBOX" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FHuIx4dGO6P8439NWxhf-14" target="FHuIx4dGO6P8439NWxhf-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FHuIx4dGO6P8439NWxhf-14" value="ESP32-CAM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aoj91FKRpZyaSs9wWHvw" name="Page-2">
+    <mxGraphModel dx="789" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0KFmN41OBIXBlEuMfruq-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="390" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0KFmN41OBIXBlEuMfruq-5" value="SERVO PANT : 180 Derajat" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KFmN41OBIXBlEuMfruq-9" value="SERVO TILT : 140 Derajat" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KFmN41OBIXBlEuMfruq-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ae01.alicdn.com/kf/HTB1gnLbf9cqBKNjSZFgq6x_kXXao/Servo-Bracket-PT-Pan-Tilt-Kamera-Landasan-Anti-getaran-Kamera-Gunung-Untuk-Pesawat-FPV-Didedikasikan-Nilon.jpg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="484" width="142.69" height="131.84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

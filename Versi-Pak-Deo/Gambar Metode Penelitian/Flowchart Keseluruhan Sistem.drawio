@@ -1,0 +1,101 @@
+<mxfile host="Electron" modified="2023-10-11T01:31:26.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="NKIYcWMp5NQi6sWJ7FbH" version="22.0.2" type="device">
+  <diagram name="Page-1" id="gSGyDG9fkIt_92CFiIol">
+    <mxGraphModel dx="1658" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2KedAku9_vmS_tYpI1uX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="2KedAku9_vmS_tYpI1uX-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KedAku9_vmS_tYpI1uX-8" target="2KedAku9_vmS_tYpI1uX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-8" value="SSID DAN PASSWORD ACCESSPOINT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KedAku9_vmS_tYpI1uX-11" target="2KedAku9_vmS_tYpI1uX-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2KedAku9_vmS_tYpI1uX-11" target="2KedAku9_vmS_tYpI1uX-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="310" />
+              <mxPoint x="255" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-11" value="Koneksi Berhasil ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="270" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KedAku9_vmS_tYpI1uX-12" target="2KedAku9_vmS_tYpI1uX-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-12" value="Koneksi ke Akses Point ESP32CAM&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="220" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-16" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="263" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KedAku9_vmS_tYpI1uX-17" target="2KedAku9_vmS_tYpI1uX-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-17" value="IP Local ESP32 Cam" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="380" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KedAku9_vmS_tYpI1uX-19" target="2KedAku9_vmS_tYpI1uX-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-19" value="Tampilan Kontrol Web Interface&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="450" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-21" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="403" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KedAku9_vmS_tYpI1uX-26" target="Vk-OtsKF2kLROwiYL7Pv-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.0000000000002" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2KedAku9_vmS_tYpI1uX-26" value="Start Video Realtime" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="500" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-2" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="315" y="80" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vk-OtsKF2kLROwiYL7Pv-5" target="2KedAku9_vmS_tYpI1uX-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="610" />
+              <mxPoint x="550" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Vk-OtsKF2kLROwiYL7Pv-5" target="Vk-OtsKF2kLROwiYL7Pv-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-5" value="Apakah Terdapat Masalah ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="570" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-9" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vk-OtsKF2kLROwiYL7Pv-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-10" value="Menggerakan Robot dan Pant Tilt" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="700" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-12" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="395" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk-OtsKF2kLROwiYL7Pv-15" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="310" y="760" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
